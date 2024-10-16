@@ -1,0 +1,175 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-07-05 23:37+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/appeals.py:23 handlers/users/appeals.py:87
+msgid "Выберите тип обращения:"
+msgstr ""
+
+#: handlers/users/appeals.py:24 handlers/users/appeals.py:88
+msgid "🔔 Жалоба"
+msgstr ""
+
+#: handlers/users/appeals.py:25 handlers/users/appeals.py:89
+msgid "🗣 Отзыв"
+msgstr ""
+
+#: handlers/users/appeals.py:26 handlers/users/appeals.py:90
+msgid "👥 Партнёр"
+msgstr ""
+
+#: handlers/users/appeals.py:27 handlers/users/appeals.py:91
+#: handlers/users/sell.py:111
+msgid "🎛 В главное меню"
+msgstr ""
+
+#: handlers/users/appeals.py:45
+msgid "Опишите суть вопроса."
+msgstr ""
+
+#: handlers/users/appeals.py:46 handlers/users/appeals.py:83
+#: handlers/users/cart.py:28 handlers/users/catalog.py:22
+#: handlers/users/catalog.py:51 handlers/users/catalog.py:71
+#: handlers/users/catalog.py:109 handlers/users/catalog.py:153
+#: handlers/users/catalog.py:202 handlers/users/catalog.py:248
+#: handlers/users/catalog.py:297 handlers/users/catalog.py:343
+#: handlers/users/catalog.py:425 handlers/users/catalog.py:463
+#: handlers/users/catalog.py:507 handlers/users/catalog.py:549
+#: handlers/users/sell.py:21 handlers/users/sell.py:37
+#: handlers/users/sell.py:70 handlers/users/sell.py:86
+msgid "Назад"
+msgstr ""
+
+#: handlers/users/appeals.py:82
+msgid "Готово"
+msgstr ""
+
+#: handlers/users/appeals.py:84
+msgid "📢 Обращения"
+msgstr ""
+
+#: handlers/users/cart.py:20
+msgid ""
+"Добавьте из каталога недвижимости объекты, которые Вам понравятся. Осмотр"
+" объектов совершенно бесплатный! Мы понимаем, что выбор недвижимости "
+"сложный и тонкий вопрос. Мы готовы помочь! И конечно будем рады "
+"познакомится лично!)"
+msgstr ""
+
+#: handlers/users/cart.py:23
+msgid ""
+"Вы можете добавить в «Лист осмотра» все понравившиеся объекты и оформить "
+"их осмотр. Осмотр объектов совершенно бесплатный! Мы понимаем, что выбор "
+"недвижимости сложный и тонкий вопрос. Мы готовы помочь! И конечно будем "
+"рады познакомится лично!)"
+msgstr ""
+
+#: handlers/users/cart.py:26
+msgid ""
+"Ваш лист осмотра:\n"
+"\n"
+msgstr ""
+
+#: handlers/users/cart.py:27
+msgid "Добавить объекты"
+msgstr ""
+
+#: handlers/users/cart.py:29
+msgid "Оформить осмотр"
+msgstr ""
+
+#: handlers/users/cart.py:99
+msgid "Корзина "
+msgstr ""
+
+#: handlers/users/cart.py:101 handlers/users/sell.py:36
+#: handlers/users/sell.py:85
+msgid "Готово. Мы скоро свяжемся с вами"
+msgstr ""
+
+#: handlers/users/catalog.py:19
+msgid ""
+"Сделали для Вас удобный каталог недвижимости. \n"
+"\n"
+"Что Вас интересует?:"
+msgstr ""
+
+#: handlers/users/catalog.py:20
+msgid "Снять"
+msgstr ""
+
+#: handlers/users/catalog.py:21
+msgid "Купить"
+msgstr ""
+
+#: handlers/users/catalog.py:48
+msgid "Какой тип недвижимости Вас интересует:"
+msgstr ""
+
+#: handlers/users/catalog.py:49
+msgid "Квартира"
+msgstr ""
+
+#: handlers/users/catalog.py:50
+msgid "Коммерческое"
+msgstr ""
+
+#: handlers/users/catalog.py:70
+msgid "Выберите категорию:"
+msgstr ""
+
+#: handlers/users/catalog.py:108 handlers/users/catalog.py:424
+#: handlers/users/catalog.py:461
+msgid "Выберите район:"
+msgstr ""
+
+#: handlers/users/catalog.py:151 handlers/users/catalog.py:200
+msgid "Выберите квартал:"
+msgstr ""
+
+#: handlers/users/catalog.py:152 handlers/users/catalog.py:201
+#: handlers/users/catalog.py:462
+msgid "Все объекты"
+msgstr ""
+
+#: handlers/users/catalog.py:247 handlers/users/catalog.py:296
+#: handlers/users/catalog.py:342 handlers/users/catalog.py:506
+#: handlers/users/catalog.py:548
+msgid "В лист осмотра 📃"
+msgstr ""
+
+#: handlers/users/catalog.py:249 handlers/users/catalog.py:298
+#: handlers/users/catalog.py:344 handlers/users/catalog.py:508
+#: handlers/users/catalog.py:550
+msgid "📃 Лист осмотра"
+msgstr ""
+
+#: handlers/users/sell.py:20 handlers/users/sell.py:69
+msgid ""
+"Опишите Ваш объект. \n"
+"Например: 2 комнатная, Юнусабад 13."
+msgstr ""
+
+#: handlers/users/sell.py:38 handlers/users/sell.py:87
+msgid "Главное Меню"
+msgstr ""
+
+#: handlers/users/sell.py:110
+msgid "🔄 Изменить язык"
+msgstr ""
+
